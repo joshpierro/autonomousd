@@ -39,7 +39,6 @@ while stream:
     key = cv2.waitKey(20)
 
 
-
 """
 TESTS
 
